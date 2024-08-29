@@ -48,9 +48,8 @@ The insights derived from the analysis were visualized using Power BI. The visua
 - `imdb_dataset_sql_queries.docx`-Queries present in the google big query.
 - `README.md`: This file providing an overview of the project.
 
-## Getting Started
-
-To explore the analysis and visualizations, you can access the dataset and analysis directly through Google BigQuery.
-
 1. **Access Google BigQuery**:  
+To explore the analysis and visualizations, you can access the dataset and analysis directly through Google BigQuery.
    [Click here to access the Google BigQuery project](https://console.cloud.google.com/bigquery?sq=927474283843:73d3d045da4c41dcbd27dad359b317a0) and explore the queries and data analysis results.
+## Explanation video
+[Click here to access the video](https://www.loom.com/share/94829f356a3b46e291e825fa66a111b2?sid=a2733973-0b05-4883-99a9-fcb4b58dc4b4).
