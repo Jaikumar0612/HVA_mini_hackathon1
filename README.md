@@ -44,6 +44,8 @@ The insights derived from the analysis were visualized using Power BI. The visua
 
 - `cleaned_imdb_top_1000.csv`: The cleaned dataset used for analysis.
 - `HVA_Hackathon.pbix`: Power BI file containing the visualizations of the analysis.
+- `imdb_top_1000.csv`: uncleaned data
+- `imdb_dataset_sql_queries.docx`-Queries present in the google big query.
 - `README.md`: This file providing an overview of the project.
 
 ## Getting Started
@@ -51,10 +53,4 @@ The insights derived from the analysis were visualized using Power BI. The visua
 To explore the analysis and visualizations, you can access the dataset and analysis directly through Google BigQuery.
 
 1. **Access Google BigQuery**:  
-   [Click here to access the Google BigQuery project](#) and explore the queries and data analysis results.
-
-   *Note: Replace the `#` with the actual link to your Google BigQuery project.*
-
-## Conclusion
-
-This project provides a comprehensive analysis of the factors that contribute to the success of movies, using the IMDb Top 1000 dataset. The findings can be valuable for filmmakers, producers, and movie enthusiasts to understand trends and patterns in the film industry.
+   [Click here to access the Google BigQuery project](https://console.cloud.google.com/bigquery?sq=927474283843:73d3d045da4c41dcbd27dad359b317a0) and explore the queries and data analysis results.
